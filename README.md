@@ -19,7 +19,7 @@
 ## 数据结构
 * [双端队列](https://github.com/edwingeng/deque)
 * [诸神！(各种数据结构)](https://github.com/emirpasic/gods)
-* 
+
 ## 数据库
 * [Go中的快速键值数据库(银行数百TB数据验证)](https://github.com/dgraph-io/badger)
 * [图数据库(TB级)](https://github.com/dgraph-io/dgraph)
