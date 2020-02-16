@@ -34,4 +34,10 @@
 * [国人开发的Riot 搜索引擎](https://github.com/go-ego/riot)
 
 ## 日期和时间
-* [暂时到这，点我继续更新](https://github.com/avelino/awesome-go#date-and-time)
+* [日期处理工具，很全](https://github.com/jinzhu/now)
+
+## 分布式系统
+* [Dragonboat是一个高性能Go实现的多组Raft 共识算法库，它同时提供C++11支持(还有个apache的etcd)](https://github.com/lni/dragonboat)
+
+## 动态DNS
+* [暂时到这，点我继续更新](https://github.com/avelino/awesome-go#dynamic-dns)
